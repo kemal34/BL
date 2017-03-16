@@ -1,0 +1,57 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>TEST - Erişim engellendi</title>
+    <style media="screen" type="text/css">
+      html,
+      body {margin:0; padding:0; height:100%; background:#DDDDDD;}
+      #container {
+      background-color:black;
+      min-height:100%;
+      position:relative;
+      }
+      #header {
+      text-align:center;
+      background-color:white;
+      font-size:20px;
+      color:#111111;
+      padding:180px;
+      font-family:"Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+      }
+      #content {
+      text-align:center;
+      color:#115345;
+      padding:10px;
+      padding-bottom:32px;
+      font-family:times;
+      font-size:100px;
+      font-weight:bold;
+      }
+      #header h1 {
+      font-family:"Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+      font-weight:bold;
+      margin:0;
+      padding:10px 0 0 10px;
+      }
+    </style>
+    <!--[if lt IE 7]>
+	<style media="screen" type="text/css">
+	  #container {
+	  height:100%;
+	  }
+	</style>
+	<![endif]-->
+  </head>
+  <body>
+    <div id="container">
+      <div id="header">
+	<h1>Bu sayfaya erişim 5651 Sayılı Yasaya Göre engellenmiştir.</h1>
+	<hr/>
+	<font style="color:gray;">Detaylı bilgi için lütfen sistem yöneticinize başvurunuz</font>
+      </div>
+      <div id="content">
+	berqNET
+      </div>
+    </div>
+  </body>
+</html>
